@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nodshley Marcelin
-- 👀 I’m interested in web development,software development,and artificial intelligence
-- 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate on Creative websites, cool software and AI.
+- 👀 I’m interested in web development,software development,game development,and artificial intelligence
+- 🌱 I’m currently learning Javascript,Python, & Java.
+- 💞️ I’m looking to collaborate on Creative websites, new software and AI Projects.
 - 📫 nmarcelin123@gmail.com
 
 <!---
